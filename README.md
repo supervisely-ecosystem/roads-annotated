@@ -1,6 +1,3 @@
-# roads-annotated
-
-
 <div align="center"> 
 
 ![eco](https://i.imgur.com/UdBujFN.png) 
@@ -27,27 +24,27 @@
 
 ## Overview 
 
- `roads_annotated` is an example project with annotated lemons and kiwifruits, with 6 images in it. 
+ `roads_annotated` is an example project with annotated roads, with 10 images in it. 
 
-![](https://i.imgur.com/94p4Ysf.jpg)
+![](https://i.imgur.com/2W6DIFm.jpg)
 
 ## Description 
 
-`lemons_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
+`roads_annotated` is a small demo dataset, perfect for flash testing of segmentation and detection models. It can be used to quickly train and test neural networks on a small amount of images.
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/el464OE0vCnqiWM/download) (9,57 MB).
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej4APAlmEO/download) (12,6 MB).
 
 ## Statistics
 
-Project contains 1 dataset with 6 images in it, with a total of 26 annotated objects. 
+Project contains 1 dataset with 10 images in it, with a total of 10 annotated objects. 
 
 ![](https://i.imgur.com/x7xjiu8.jpg)
 
 ## Examples
 
-![](https://i.imgur.com/wd243ip.png) ![](https://i.imgur.com/ldSWlUG.png) 
+![](https://i.imgur.com/VWS3x1g.png) ![](https://i.imgur.com/sSO1go0.png) 
 
 ## How To Import
 
