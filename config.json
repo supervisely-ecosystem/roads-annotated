@@ -1,0 +1,10 @@
+{
+  "name": "Roads (Annotated)",
+  "description": "Sample image project with one labeled class (road)",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/0E8d8bB.png",
+  "icon_cover": true
+}
