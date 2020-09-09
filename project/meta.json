@@ -1,1 +1,13 @@
-
+{
+    "classes": [
+        {
+            "title": "road",
+            "shape": "polygon",
+            "color": "#FFF600",
+            "geometry_config": {},
+            "id": 778
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
