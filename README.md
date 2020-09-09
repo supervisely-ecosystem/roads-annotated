@@ -4,8 +4,6 @@
 
 ![icon]() 
 
- # Roads Annotated  
-
 <p align="center">
 
   <a href="#overview">Overview</a> •
