@@ -16,21 +16,21 @@
   <a href="#how-to-import">How to Import</a> 
 </p>
 
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-[![](https://img.shields.io/github/v/release/supervisely-ecosystem/roads-annotated)](https://github.com/supervisely-ecosystem/roads-annotated)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/roads-annotated)
 </div>
 
 
 
 ## Overview 
 
- `roads_annotated` is an example project with annotated road scenery, with 10 images in it. 
+ `roads_annotated` is an example project with 10 images with labeled roads. 
 
 ![](https://i.imgur.com/2W6DIFm.jpg)
 
 ## Description 
 
-`roads_annotated` is a small demo dataset, perfect for flash testing of segmentation models. It can be used to quickly train and test neural networks on a small amount of images.
+`roads_annotated` is a small demo dataset, perfect for flash testing of segmentation models. It can be used to quickly train and test neural networks on a small number of images.
 
 ## Download
 
