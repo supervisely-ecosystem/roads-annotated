@@ -40,7 +40,7 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej
 
 Project contains 1 dataset with 10 images in it, with a total of 10 annotated objects. 
 
-![](https://i.imgur.com/x7xjiu8.jpg)
+![](https://i.imgur.com/I0PU2mh.jpg)
 
 ## Examples
 
