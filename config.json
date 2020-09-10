@@ -1,9 +1,11 @@
 {
   "name": "Roads (Annotated)",
-  "description": "Sample image project with one labeled class (road)",
+  "description": "10 images with labeled road",
   "type": "project",
   "categories": [
-    "demo"
+    "labeled data",
+    "semantic segmentation",
+    "images"
   ],
   "icon": "https://i.imgur.com/0E8d8bB.png",
   "icon_cover": true
