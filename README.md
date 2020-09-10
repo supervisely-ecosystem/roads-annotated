@@ -24,7 +24,7 @@
 
 ## Overview 
 
- `roads_annotated` is an example project with annotated roads, with 10 images in it. 
+ `roads_annotated` is an example project with annotated road scenery, with 10 images in it. 
 
 ![](https://i.imgur.com/2W6DIFm.jpg)
 
