@@ -13,7 +13,6 @@
   <a href="#download">Download</a> •
   <a href="#statistics">Statistics</a> •
   <a href="#examples">Examples</a> •
-  <a href="#how-to-import">How to Import</a> 
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
@@ -49,12 +48,6 @@ Project contains 1 dataset with 10 images in it, with a total of 10 annotated ob
 
 ![](https://i.imgur.com/VWS3x1g.png) ![](https://i.imgur.com/sSO1go0.png) 
 
-## How To Import
-
-...
-
 ## Acknowledgement
 
-Images were provided by one of our customers [NPO Region](https://nporegion.ru/). 
-
-<img src="https://i.imgur.com/IQR1vGo.png" width="400" />
+Images were provided by one of our customers
