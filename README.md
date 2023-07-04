@@ -2,7 +2,7 @@
 
 <img src="media/eco.png" width="250" /> <br>
 
-<img src="media/icon.png" width="100"/> 
+<img src="media/icon.jpeg" width="100"/> 
 
 # Roads Annotated  
 
@@ -42,11 +42,11 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej
 
 Project contains 1 dataset with 10 images in it, with a total of 10 annotated objects. 
 
-![](media/st1.jpeg)
+![](media/st1.png)
 
 ## Examples
 
-![](media/ex1.jpeg) ![](media/ex2.jpeg) 
+![](media/ex1.png) ![](media/ex2.png) 
 
 ## Acknowledgement
 
