@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/xnXaYKT.jpg" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # Roads Annotated  
 
@@ -28,7 +28,7 @@
 
  `roads_annotated` is an example project with 10 images with labeled roads. 
 
-![](https://i.imgur.com/2W6DIFm.jpg)
+![](media/ov1.jpeg)
 
 ## Description 
 
@@ -42,11 +42,11 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej
 
 Project contains 1 dataset with 10 images in it, with a total of 10 annotated objects. 
 
-![](https://i.imgur.com/jvGSdVA.png)
+![](media/st1.jpeg)
 
 ## Examples
 
-![](https://i.imgur.com/VWS3x1g.png) ![](https://i.imgur.com/sSO1go0.png) 
+![](media/ex1.jpeg) ![](media/ex2.jpeg) 
 
 ## Acknowledgement
 
