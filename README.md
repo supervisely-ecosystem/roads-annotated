@@ -36,7 +36,7 @@
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/LioXQej4APAlmEO/download) (12,6 MB).
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/roads-annotated/releases/download/v0.9.0/project.zip) (12,6 MB).
 
 ## Statistics
 
